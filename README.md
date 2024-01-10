@@ -5,7 +5,7 @@
    
     - Vamos a añadir una foto entre el texto
    
-    - [Descripcion de la imagen](imagenes/ferrari)
+    - [Descripcion de la imagen](imagenes/ferrari.jpg)
    
     - Vamos a añadir un link
     - [adrian10-10](https://github.com/adrian10-10/Hola-Mundo)
